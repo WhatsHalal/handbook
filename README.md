@@ -1,4 +1,4 @@
-# WhatsHalal Employee Handbook
+# WhatsHalal Employee Handbook (Work In Progress)
 
 With an engineering team spread across 3 countries in 2 timezones and a backlog that spells crazy with a capital C, it is imperative that all employees, especially engineers, are able to quickly absorb, adapt and act without having to feel lost and depressed in the remote work wilderness.
 
