@@ -2,25 +2,19 @@
 
 Besides the customer-facing applications, like the different versions of WhatsHalal, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
 
-### Dash
+### Merchant Management System (MMS)
 
-Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access WhatsHalal), application health (response times, job queue exceptions etc). The chieftain in charge of the overall system is Noah.
+The MMS is what we use to onboard and manage merchants. This is where we control the merchant opening times, menus and orders.
 
-https://dash.37signals.com/
+https://mms.whatshalal.com/
 
-### Queenbee
 
-Queenbee is our invoice, accounting, and identity system. Here you can look up any customer account, see whether they are comped, refund an invoice, or even login as a customer.
+### Delivery Management System (DMS)
 
-That’s an immense amount of power and we take its use very seriously. We only ever login as a customer after having been given explicit permission to do so, never preemptively. Our customers expect that their information is confidential, even from us, and we intend to honor that expectation at all times.
+The DMS is what we use to onboard and manage delivery partners. Controllers, Operators, Storemen and Execs will utilise this system most of the time.
 
-https://billing.37signals.com
+https://dms.whatshalal.com/
 
-### The 37 command
-
-This is perhaps less of a system and more of an interface to all our other systems. The 37 command gives easy access to the production consoles for all the applications, which is often needed when diagnosing or fixing custom issues. It also allows you to directly grep and tail log files for live debugging, amongst other things.
-
-https://github.com/basecamp/37
 
 ### Sentry
 
@@ -28,14 +22,16 @@ We track programming exceptions on Sentry. When a customer hits a "Oops, somethi
 
 https://getsentry.com/
 
-### Customer.IO
-
-All drip campaigns, welcome emails, and other email marketing campaigns for WhatsHalal 3 are run through Customer.IO. This allows the marketing team independently tweak and measure the campaigns.
-
-https://customer.io
 
 ### Shipshape
 
-Shipshape is how we make sure our work computers are up to WhatsHalal's strict security protocol. When you're given access to WhatsHalal's GitHub account, you can run Shipshape to be sure you're up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
+Shipshape is how we make sure our Golang source code are up to WhatsHalal's strict security protocol. Shipshape is a static program analysis platform that allows custom analyzers to plug in through a common interface. Shipshape is packaged in a docker image. When that image is run, a Shipshape analyzer service starts up and processes analysis requests. Structured analysis results are generated. Shipshape can be run as a command-line interface, or as a Jenkins plugin. The requirements to run are that you are running Linux with docker installed and the source code you want to analyze available on disk.
 
-https://github.com/basecamp/shipshape
+https://github.com/whatshalal/shipshape
+
+
+### Brakeman
+
+Brakeman is how we make sure our Ruby source code are up to WhatsHalal's strict security protocol. Brakeman is an open source vulnerability scanner specifically designed for Ruby on Rails applications. It statically analyzes Rails application code to find security issues at any stage of development.
+
+https://github.com/whatshalal/brakeman

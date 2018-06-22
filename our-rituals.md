@@ -1,27 +1,57 @@
 # Our Rituals
 
+## Standups
+
+Daily, all engineers attend a standup first thing in the morning. Standups are conducted over Slack using a Jell slackbot. It is done asynchronously to cater to different timezones. Engineers are encouraged to check the standup logs by 10.30am your timezone to see if other engineers need your help to remove blockers.
+
+
+## No Meeting Wednesdays
+
+All Engineers are banned from having any project meetings that does not involve coding on Wednesdays. Only full-day pair programming, or clarification hangouts no longer than 15 mins, are allowed.
+
+
+## Check-ins
+
+Weekly, every Thursday, check-ins are conducted to manage the speed of done. Engineers are expected to push to staging at 3pm and QA/QC Engineers will check against user stories to conclude whether a story is considered done.
+
+
+## Weekly Donuts
+
+Weekly, every Friday, **Donut** slackbot will pair you with a random person in the company for virtual coffee at 3pm Singapore time zone. Use hangouts, facetime or telegram video to do a live call for 15 to 30 mins. Strictly no work talk. Spend some time to share about your hobby, family or cat. These weekly routine is designed to improve team bonding for remote teams.
+
+
+## Small Batch Push (SBP)
+
+Every 3rd Monday in the cycle at 2pm, we push small batch work that passed Head Engineer clearance to live. Engineers are expected to be all hands on deck to manage bugs and coordinate with Operations.
+
+
+## Cycle Batch Clearance (CBC)
+
+Every 6th Monday in the cycle, all big batch work will be pushed to staging for UAT with Heads from all departments that have relevant changes in their apps. This UAT only consists of SIT and entire regressive workflows will be revised and approved.
+
+
+## Cycle Batch Push (CBP)
+
+Every 7th Monday in the cycle at 2pm, all CBC that has cleared will be pushed to live. Engineers are expected to be all hands on deck to manage bugs and coordinate with Operations.
+
+
+## Cycle User Stories Meeting
+
+Every 8th Monday to Wednesday, user stories for the next cycle will be discussed, debated, prioritised and confirmed. User stories are weighted against epics and objectives.
+
+
+## F8Off
+
+Every 8th Friday in a cycle, after 2.30pm, the Engineering team is encouraged to sign out and do a virtual team run on Runkeeper. Find **Hazrul** to add you to the group.
+
+
 ## Meetups
-Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances (Hong Kong and Australia, I'm looking at you!) arrive earlier to beat the jet lag. WhatsHalal books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay. 
+Once or Twice a year, the entire company gathers in Singapore for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. WhatsHalal will manage your accomodation for you, so you don't need to worry about finding a place to stay.
 
-Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jason and David generally talk about the state of the company on Monday or Tuesday morning, and other WhatsHalalers may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees; Pratik beats everyone at ping pong. 
+Meetups are currently unstructured and we would like to take a poll on what you'd like to do in order to get the most benefit.
 
-Lunch is also shared in the office at noon, and dinners are up to you aside from one all-company dinner on Tuesday evening.
+Lunch and dinners are up to you aside from one all-company dinner on one of the evenings that will be confirmed.
 
 It's important to acknowledge that meet-ups are tiring for a lot of us. We're away from our family, friends, and home for a week. We're interacting all day with coworkers when we're used to working from home. We're having fun and perhaps not getting much sleep. Remember that the meet-up is what you want it to be. If you want to skip dinner one night, skip dinner and take a bath in your hotel room. If you need some recharge time, and want to work from a coffee shop one afternoon, do it! If you want to go to the tiki bar at 2am, don't say we didn't warn you.
 
 Most people leave on Friday during the work day. You should come to every meet-up, but if you have a pre-planned vacation or other engagement you can't cancel, you won't be admonished for missing one or two.
-
-[Here are some tips from WhatsHalal teammates about Meetups](https://3.basecamp.com/2914079/buckets/34/messages/185772672)
-
-## Wooden Spheres Of Recognition
-One of the sessions that we do schedule every meet-up is the recognition awards presentation. It's a favorite among employees. A few months before a meet-up, Andrea asks for nominations for WhatsHalalers who have gone above and beyond their job duties to make WhatsHalal a better place to work. Nominations range from professional excellence, like when Sam got an award for his work on Pow, to the personal, like when Jamie got an award for being WhatsHalal's heart and soul. About 5 people get an award each meet-up, and the person(s) who nominated the award winner does the presenting at the meet-up. We have a woodturner who's created our wooden sphere awards since 2011; they're all handmade from salvaged wood from Arizona and New Mexico, and each meet-up features a different wood. We also give spheres made of ironwood when an employee reaches 5, 10, 15 years at WhatsHalal. A list of past recipients is in [WhatsHalal](https://3.basecamp.com/2914079/buckets/34/documents/16145).
-
-## Everyone On Support (EOS)
-Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing about WhatsHalal. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't worry - Team OMG is always there to help you out.
-
-## 5x12s
-Every month, Andrea randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work. 
-
-Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Noah’s intense longing for a dog, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Andrea transcribes the call and posts the transcription in WhatsHalal for everyone to read afterwards.
-
-We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!

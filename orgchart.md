@@ -31,3 +31,11 @@ We have three C-level executives at WhatsHalal.
 ### Software Engineering
 
 This team is led by **Hazrul** and supported by Senior Engineers, **Fahmi**, **Sergio** and **Hasyimi**. All Engineers and Apprentices will be learning extensively from the Seniors and the team conducts itself systematically to achieve the company's goals.
+
+### SEALs
+
+This team is led by **Azman** and **Hadi** and are in charge of sales. Like the actual SEALs, they are the commandos that go in first, recon, and grab the sale. Their elite work is supported by the entire organisation.
+
+### Marketing
+
+This team is led by **Andy** and reports to **Azman**. They take care of communicating to customers and stakeholders in order to get them to do a desired result, like buy from us!

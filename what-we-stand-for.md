@@ -16,18 +16,10 @@ Key values:
 
 * **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that *we* think are right, not that *they* think are right.
 
-## Helping small businesses deal with growth
+## Helping consumers feel safe that everything they consume is Halal anywhere in the world
 
-Growth happens.
-
-Growth makes a lot of things more difficult - people don't know each other as well, information is harder to find, stuff gets lost, communication becomes muddled, it becomes harder to stay on top of everything that's going on, etc. What worked for 3 or 5 people, doesn't work as well at 6 or 8. And certainly not 10, 15, 25 or more.
-
-At some point, growing small businesses need a system, something to stay organized, something to grow with so they don't lose control of themselves along the way. Company-wide communication, team-based communication, and project work needs a home.
-
-Most companies cobble together a laticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn't cut it anymore. More meetings aren't going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
+Halal processes and certifications worldwide is broken. A certification authority in one city is not recognised in another. Certificates expire stopping your production line. News breaks out that an eatery's Halal certification has been revoked. A line of chocolates was discovered to have been tainted with porcine. Counterfeit Halal goods are found to be sold in a supermarket. How can today's consumers feel safe about what they eat or drink?
 
 This is where WhatsHalal comes in.
 
-WhatsHalal helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone’s accountable.
-
-This is what we do here. It takes many forms, and we're always working towards a more perfect system, but we help groups of people get their shit together - and keep it together - so they can do their best work with their team, in their company, for their own customers.
+WhatsHalal is about Halal assurance of 360 million ingredients and food worldwide, all in your pocket. We are building an application that helps consumers conveniently find Halal products wherever they are in the world. Whether you want to order food delivery, takeout, dine-in, buy groceries for your household, learn to cook a recipe, - all you need to do is use our app to scan a product and know without a doubt if it's Halal or not.
