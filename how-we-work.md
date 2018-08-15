@@ -18,7 +18,7 @@ But the general concept of the cycle extends to all departments. It gives us a r
 
 In between each cycle, we usually spend 1-2 weeks cooling down, dealing with various backlogs or bug smashes, and figuring out what we should tackle next.
 
-We’re currently naming the cycles after different types of Halal food
+We’re currently naming the cycles after different types of Halal food.
 
 ## Heartbeats
 
