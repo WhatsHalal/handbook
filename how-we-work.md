@@ -2,7 +2,7 @@
 
 ### Versions
 
-Versions are 38-weeks (approximately 9 months) long at WhatsHalal. Each version will contain approximately 6 cycles. The version releases will be fixed to March, December, September, June in that order. Each version will be named after the longest main road or highway in 10 different Southeast Asian country.
+Versions are 38-weeks (approximately 9 months) long at WhatsHalal. Each version will contain approximately 6 cycles. The version releases will be fixed to March, December, September, June in that order. Each version will be named after the a 1950s-1960s musician or actor from Singapore, Malaysia or Indonesia.
 
 ## Cycles
 
