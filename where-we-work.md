@@ -2,7 +2,7 @@
 
 ## Office
 
-The WhatsHalal HQ is in Singapore, in the Alexandra neighborhood. 8 people have desk space in the Singapore office, but those people also work from home regularly. We moved into the office in January 2018, and before that, WhatsHalal had no office. The office is also where we once or twice a year gather the whole company for the meet-up.
+The WhatsHalal HQ is in Singapore, in the Alexandra neighbourhood. 8 people have desk space in the Singapore office, but those people also work from home regularly. We moved into the office in January 2018, and before that, WhatsHalal had no office. The office is also where we once or twice a year gather the whole company for the meet-up.
 
 Anyone is welcome to visit Singapore and work from the office at any time.
 

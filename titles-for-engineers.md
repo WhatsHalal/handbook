@@ -20,6 +20,8 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Works mostly on clearly defined and scoped individual features or problems.
 * Usually at least 3 years of experience being a professional engineer in the specific domain.
 
+_Examples: Fahmi_
+
 ## Senior Software Engineer
 
 * Work doesn't necessarily need to be reviewed, but general approach may be.
@@ -28,6 +30,8 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Deep expertise within at least one programming environment.
 * Basic proficiency in at least one additional programming environment.
 * Usually at least 3-5 years of experience being a professional engineer in the specific domain.
+
+_Examples: Sergio, Hasyimi_
 
 ## Lead Software Engineer
 

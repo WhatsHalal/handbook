@@ -1,6 +1,6 @@
 # Benefits & Perks
 
-Since the majority of WhatsHalal employees work in the Singapore, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the Singapore as it makes sense, though.
+Since the majority of WhatsHalal employees work in the Singapore, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside Singapore as it makes sense though.
 
 ## Benefits
 

@@ -19,6 +19,8 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * WEB: Fully capable of writing modern HTML/CSS.
 * MOBILE: Can create basic prototypes demonstrating interactions and animations.
 
+_Examples: Dani, Adi_
+
 ## Senior Designer
 * Work doesn't necessarily need to be reviewed, but general approach may be.
 * Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
@@ -38,8 +40,6 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * WEB: Fully capable of writing modern HTML/CSS/JS + the ability to make moderate progress in Rails.
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 
-_Examples: JZ, Jamie_
-
 ## Principal Designer
 * Can run point on our most complex, critical, big batch projects, taking them from concept to shipping as the sole designer (alongside one or more programmers).
 * Leads major product redesigns (from version 2 to 3, 3 to 4, etc).
@@ -53,5 +53,3 @@ _Examples: JZ, Jamie_
 * WEB: Can spin up new Rails apps from scratch, and make initial progress without outside help.
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 * MOBILE: Can work in native environments and put together their own app from scratch.
-
-_Examples: Scott, Jonas_
