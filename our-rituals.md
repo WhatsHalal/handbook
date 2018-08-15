@@ -15,9 +15,9 @@ All Engineers are banned from having any project meetings that does not involve 
 Weekly, every Thursday, check-ins are conducted to manage the speed of done. Engineers are expected to push to staging at 3pm and QA/QC Engineers will check against user stories to conclude whether a story is considered done.
 
 
-## Weekly Donuts
+## Bi-Weekly Donuts
 
-Weekly, every Friday, **Donut** slackbot will pair you with a random person in the company for virtual coffee at 3pm Singapore time zone. Use hangouts, facetime or telegram video to do a live call for 15 to 30 mins. Strictly no work talk. Spend some time to share about your hobby, family or cat. These weekly routine is designed to improve team bonding for remote teams.
+Bi-Weekly, every Monday, **Donut** slackbot will pair you with a random person in the company for virtual coffee at 9am Singapore time zone. Use hangouts, facetime or telegram video to do a live call for 15 to 30 mins. Work talk is allowed but should be a lesser weightage. Spend more time to share about your hobby, family or cat. These bi-weekly routine is designed to improve team bonding for remote teams.
 
 
 ## Small Batch Push (SBP)
